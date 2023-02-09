@@ -8,3 +8,8 @@ p {
 body {
 	background-color: gray;
 }
+
+h1 {
+	text-align: right;
+	font-family: arial;
+}
